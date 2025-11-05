@@ -10,7 +10,7 @@ function HomePage() {
         <div className={style.gridMain}>
           <div className={style.subGrid}>
             <div className={style.panel}>stock chart</div>
-            <div className={style.panel}>fundamentals</div>
+            <div className={style.panel}>fundamentals poep</div>
           </div>
         </div>
         <div className={style.gridSubMenu}>submenu</div>
