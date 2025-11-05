@@ -4,8 +4,7 @@
   z-index: 1;
 }
 .navContainer {
-  justify-content: flex-end;
-
+  justify-content: space-between;
   background-color: hsl(from var(--clr-userscreens) h s l / 0.9);
   backdrop-filter: blur(4px);
   border: 1px solid var(--clr-bordercolor);
